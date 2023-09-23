@@ -1,5 +1,3 @@
----
-
 ## Java Quick Review: Datatypes, Variables, Expressions, and Operators
 
 ### 1. Datatypes
@@ -88,5 +86,3 @@ Operators are used to perform operations on variables and values. Here are the m
 - `-`: Unary minus (negation)
 - `++`: Increment
 - `--`: Decrement
-
----
